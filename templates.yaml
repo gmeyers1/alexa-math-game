@@ -1,0 +1,4 @@
+welcome: Hi Alice. Alexa here.  Your dad programmed me to help you learn your math. I am going to give you a number and you need to tell me what other number added to it will add up to 10, are you ready?
+round: ok, {{ question_number }} and what number equal ten?
+win: Good job!  Do you want to play again?
+lose: Sorry, that's the wrong answer.  Do you want to play again?
